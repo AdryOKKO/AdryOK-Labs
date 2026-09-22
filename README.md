@@ -1,2 +1,7 @@
-# AdryOK-Labs
-Meus primeiros projetos e experimentos de programação.
+# AdryOK Labs 🎮
+
+Meus primeiros projetos, experimentos e estudos de programação.
+
+## Projetos
+
+- Em breve...
